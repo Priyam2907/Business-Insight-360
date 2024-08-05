@@ -1,7 +1,7 @@
 # 🚀 Power BI Project: Comprehensive Business Insights for AtliQ Hardware 🚀
 ## Live Dashboard
 
-Explore the interactive dashboard [here]([https://lnkd.in/dSx6BCV9](https://app.powerbi.com/view?r=eyJrIjoiYjY5NGEyNjAtM2YxYS00ZWU1LTg5MjMtMTg2NDdkYTVjNGU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)).
+Explore the interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjY5NGEyNjAtM2YxYS00ZWU1LTg5MjMtMTg2NDdkYTVjNGU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ## Overview
 
